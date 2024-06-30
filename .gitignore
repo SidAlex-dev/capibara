@@ -1,2 +1,4 @@
 .idea
 .env
+capibara/__pycache__
+users/__pycache__
